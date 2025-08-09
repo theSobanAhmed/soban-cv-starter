@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Smooth fonts & selection */
+::selection { background: #3f3f46; color: white; }
